@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f2f2f2;
+}
+
+/*--- navigation bar ---*/
+
+
+
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+
+
+.navbar-collapse {
+  justify-content:left;
+}
+
+
+
+.features {
+  margin: 1em auto;
+  padding: 1em;
+  position: relative;
+}
+
+.brand {
+text-align:center;
+}
+
+
+
+.page-footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 60px 0 30px;
+}
+
+.footer-copyright {
+  color: #666;
+  padding: 40px 0;
+}
